@@ -1,0 +1,42 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: antiquewhite;
+}
+button{
+
+  background-color: rgb(61, 9, 9);
+  color: aliceblue;
+  padding: 5px;
+  border:1px solid white;
+  width: 110px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+input{
+  width: 230px;
+  height: 20px;
+  
+}
+.productItems{
+  width: 200px;
+  height: 150px;
+  border: 2px solid rgb(61, 9, 9);
+  text-align: center;
+  margin-top: 20px;
+  border-radius: 10px;
+  margin-left: 30px;
+}
+h3{
+  color: rgb(61, 9, 9);
+  padding-left: 70px;
+}
+.carts{
+ 
+  margin-top: 20px;
+  margin-left: 30px;
+  border-radius: 10px;
+  padding-left: 30px;
+}
